@@ -30,7 +30,7 @@
 
 ## Overview
 
-Manual grading of handwritten exams is slow, inconsistent, and prone to fatigue-induced bias. **GradeOps** solves this with a three-stage pipeline:
+Manual grading of handwritten exams is slow, inconsistent, and prone to fatigue-induced bias. **GradeOps** solves this with a three-stage pipeline: 
 
 1. **Extract** — OCR/Vision models (Google Gemini 2.5 Flash) transcribe handwritten student answers from bulk PDF scans.
 2. **Grade** — An Agentic LLM evaluates each answer against instructor-defined JSON rubrics, awarding partial credit with structured textual justifications.
