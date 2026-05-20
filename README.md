@@ -283,4 +283,3 @@ This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for d
 
 ---
 
-<p align="center">Built with ☕ by <strong>Abhinav Rai</strong> &nbsp;·&nbsp; <a href="mailto:contact@example.com">Contact</a></p>
